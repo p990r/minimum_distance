@@ -1,7 +1,4 @@
 def solution(A):
-    # write your code in Python 3.6
-    pass
-
     if (len(A)<2):
         return -2
 
