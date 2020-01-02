@@ -1,4 +1,4 @@
-# Minimum Distance Codility challenge solved in python
+# Minimum Distance Codility challenge solved in Python
 
 Integer V lies strictly between integers U and W if U < V < W or if U > V > W.
 A non-empty zero indexed array A consisting of N integers is given.
